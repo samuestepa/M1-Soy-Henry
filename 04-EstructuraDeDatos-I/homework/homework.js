@@ -33,7 +33,7 @@ function nFibonacci(n) {
   return x 
 }
 console.log(nFactorial(5));
-console.log(nFibonacci(7))
+console.log(nFibonacci(7));
 
 /*
 Implementar la clase Queue, sabiendo que es una estructura de tipo FIFO, donde el primer elemento que ingresa 
